@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MultiWii.AuxiliarFunctions">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAgAACIAAAAAABAAgACAAAQAA=</HashCode>
+      <FileName>Core\AuxiliarFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiWii.CoreFunctions">
+    <Position X="4.25" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAgAAAAgAAAQ=</HashCode>
+      <FileName>Core\CoreFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiWii.Form1">
+    <Position X="0.5" Y="0.5" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>iUP4b1NxkbexwvMkqWjhZHuCsiB+ObyDmi4c2cJj3gE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiWii.ImageFunctions">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AygBAECACAACAEAAgBgGAgEAAAACAAgAAgAAIBAAAgA=</HashCode>
+      <FileName>ImageRecognition\ImageFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiWii.JoystickFunctions">
+    <Position X="10" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAEAFAAAIAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>JoystickFunctions\JoystickFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiWii.MultiWiiFunctions">
+    <Position X="7.75" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>kgMRACEAixJaIyCjIJRogBUBigMICgBheAJYCBYiCDA=</HashCode>
+      <FileName>MultiWii\MultiWiiFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiWii.BasicFunctions">
+    <Position X="4.25" Y="2.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAAhCAAAQAAAQAQBAABgAUggAAAAEBQAAAAAAAIQgI=</HashCode>
+      <FileName>ToolKit\BasicFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiWii.GeneralFunctions">
+    <Position X="4.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAgAACgCAAAAAAAAAAAAgAAAAAAAAAAgoQAAA=</HashCode>
+      <FileName>ToolKit\GeneralFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiWii.Missions">
+    <Position X="4.25" Y="10.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAUgAIEMCQABAQAQAARAAAEBAkABEKACAEBCIA=</HashCode>
+      <FileName>ToolKit\Missions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

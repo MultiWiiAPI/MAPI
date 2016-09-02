@@ -1,0 +1,29 @@
+﻿1. SEND COMMAND
+2. SET_RAW_RC (ENVIO) - MPS_STATUS (RECIBIR)
+3. FUNCIONES BASICAS MULTIWII (Una en cada funcion)
+	Throttle
+	Yaw
+	Pitch
+	Roll
+4. FUNCIONES ARMADO/DESARMADO
+	Armado
+	Desarmado
+5. FUNCIONES MOVIMIENTOS API
+	Despegar
+	Aterrizar
+	Subir
+	Bajar
+	Giro izquierda
+	Giro derecha
+	Ladeo izquierdo
+	Ladeo derecho
+	Marcha hacia adelante
+	Marcha hacia atras
+
+6. FUNCIONES ESTADO DEL DRONE API (Recepción)
+	Status
+	Attitude	
+7. FUNCIONES DE MODO DE VUELO API
+8. FUNCIONES DE SEGURIDAD API
+9. MISIONES BASICAS API
+10. CONTROL POR MANDO

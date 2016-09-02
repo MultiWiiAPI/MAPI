@@ -1,0 +1,19 @@
+rc groups camara mobius
+http://www.rcgroups.com/forums/showthread.php?t=1904559
+
+rc groups naze 32
+http://www.rcgroups.com/forums/showthread.php?t=1653753
+
+drones de carreras conf naze 32
+http://dronesdecarreras.com/tutorial-configura-tu-acro-naze32-flip32-con-baseflight-primera-parte/
+
+montaje frame
+http://blog.oscarliang.net/fpv250-mini-quadcopter-hobbyking-diatone/
+http://www.rcgroups.com/forums/showthread.php?t=2130736
+
+motores
+http://www.dys.hk/ProductShow.asp?ID=91
+http://www.rcgroups.com/forums/showthread.php?t=2180080#post28563937
+
+transmisor receptor video
+http://www.boscam.cn/ProductDetails.aspx?id=38

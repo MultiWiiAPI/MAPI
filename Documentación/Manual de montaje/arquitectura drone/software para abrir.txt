@@ -1,0 +1,3 @@
+dia:
+
+http://dia-installer.de/download/linux.html.es

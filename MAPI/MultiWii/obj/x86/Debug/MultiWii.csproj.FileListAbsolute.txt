@@ -1,0 +1,183 @@
+c:\users\pic menton\documents\visual studio 2010\Projects\MultiWii\MultiWii\bin\Debug\MultiWii.exe
+c:\users\pic menton\documents\visual studio 2010\Projects\MultiWii\MultiWii\bin\Debug\MultiWii.pdb
+c:\users\pic menton\documents\visual studio 2010\Projects\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Form1.resources
+c:\users\pic menton\documents\visual studio 2010\Projects\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Properties.Resources.resources
+c:\users\pic menton\documents\visual studio 2010\Projects\MultiWii\MultiWii\obj\x86\Debug\MultiWii.csproj.GenerateResource.Cache
+c:\users\pic menton\documents\visual studio 2010\Projects\MultiWii\MultiWii\obj\x86\Debug\MultiWii.exe
+c:\users\pic menton\documents\visual studio 2010\Projects\MultiWii\MultiWii\obj\x86\Debug\MultiWii.pdb
+D:\Documentos\sentinelDrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.exe
+D:\Documentos\sentinelDrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.pdb
+D:\Documentos\sentinelDrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\bin\Debug\MultiWii.exe
+D:\Documentos\sentinelDrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\bin\Debug\MultiWii.pdb
+D:\Documentos\sentinelDrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.csprojResolveAssemblyReference.cache
+D:\Documentos\sentinelDrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Form1.resources
+D:\Documentos\sentinelDrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Properties.Resources.resources
+D:\Documentos\sentinelDrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.csproj.GenerateResource.Cache
+C:\Users\pc-02\Documents\aliendrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.exe
+C:\Users\pc-02\Documents\aliendrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.pdb
+C:\Users\pc-02\Documents\aliendrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\bin\Debug\MultiWii.exe
+C:\Users\pc-02\Documents\aliendrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\bin\Debug\MultiWii.pdb
+C:\Users\pc-02\Documents\aliendrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.csprojResolveAssemblyReference.cache
+C:\Users\pc-02\Documents\aliendrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Form1.resources
+C:\Users\pc-02\Documents\aliendrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Properties.Resources.resources
+C:\Users\pc-02\Documents\aliendrone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.csproj.GenerateResource.Cache
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\bin\Debug\MultiWii.exe
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\bin\Debug\MultiWii.pdb
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Form1.resources
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Properties.Resources.resources
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.csproj.GenerateResource.Cache
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.exe
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.pdb
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyectos Auxiliares\MultiWii\MultiWii\obj\x86\Debug\MultiWii.csprojResolveAssemblyReference.cache
+D:\Documentos\MultiWii\MultiWii\obj\x86\Debug\MultiWii.exe
+D:\Documentos\MultiWii\MultiWii\obj\x86\Debug\MultiWii.pdb
+D:\Documentos\MultiWii\MultiWii\obj\x86\Debug\MultiWii.csprojResolveAssemblyReference.cache
+D:\Documentos\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Form1.resources
+D:\Documentos\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Properties.Resources.resources
+D:\Documentos\MultiWii\MultiWii\obj\x86\Debug\MultiWii.csproj.GenerateResource.Cache
+D:\Documentos\MultiWii\MultiWii\bin\Debug\MultiWii.exe
+D:\Documentos\MultiWii\MultiWii\bin\Debug\MultiWii.pdb
+D:\Documentos\MultiWii\MultiWii\bin\Debug\SlimDX.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\obj\x86\Debug\MultiWii.exe
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\obj\x86\Debug\MultiWii.pdb
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\cvextern.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\opencv_calib3d220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\opencv_contrib220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\opencv_core220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\opencv_features2d220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\opencv_ffmpeg220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\opencv_flann220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\opencv_gpu220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\opencv_highgui220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\opencv_imgproc220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\opencv_legacy220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\opencv_ml220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\opencv_objdetect220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\opencv_video220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\ZedGraph.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\MultiWii.exe
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\bin\Debug\MultiWii.pdb
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\obj\x86\Debug\MultiWii.csprojResolveAssemblyReference.cache
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Form1.resources
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Properties.Resources.resources
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MultiWii\MultiWii\obj\x86\Debug\MultiWii.csproj.GenerateResource.Cache
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\obj\x86\Debug\MultiWii.exe
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\obj\x86\Debug\MultiWii.pdb
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\cvextern.dll
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\opencv_calib3d220.dll
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\opencv_contrib220.dll
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\opencv_core220.dll
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\opencv_features2d220.dll
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\opencv_ffmpeg220.dll
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\opencv_flann220.dll
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\opencv_gpu220.dll
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\opencv_highgui220.dll
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\opencv_imgproc220.dll
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\opencv_legacy220.dll
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\opencv_ml220.dll
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\opencv_objdetect220.dll
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\opencv_video220.dll
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\ZedGraph.dll
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\MultiWii.exe
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\bin\Debug\MultiWii.pdb
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\obj\x86\Debug\MultiWii.csprojResolveAssemblyReference.cache
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Form1.resources
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Properties.Resources.resources
+C:\Users\PC 03\Desktop\MultiWii\MultiWii\obj\x86\Debug\MultiWii.csproj.GenerateResource.Cache
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\obj\x86\Debug\MultiWii.exe
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\obj\x86\Debug\MultiWii.pdb
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\cvextern.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\opencv_calib3d220.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\opencv_contrib220.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\opencv_core220.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\opencv_features2d220.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\opencv_ffmpeg220.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\opencv_flann220.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\opencv_gpu220.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\opencv_highgui220.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\opencv_imgproc220.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\opencv_legacy220.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\opencv_ml220.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\opencv_objdetect220.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\opencv_video220.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\ZedGraph.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\MultiWii.exe
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\MultiWii.pdb
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\bin\Debug\SlimDX.dll
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\obj\x86\Debug\MultiWii.csprojResolveAssemblyReference.cache
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Form1.resources
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\obj\x86\Debug\MultiWii.Properties.Resources.resources
+D:\Documentos\sentinelDrone\Desarrollo\CGCimage\MultiWii\MultiWii\obj\x86\Debug\MultiWii.csproj.GenerateResource.Cache
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\obj\x86\Debug\MultiWii.exe
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\obj\x86\Debug\MultiWii.pdb
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\cvextern.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_calib3d220.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_contrib220.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_core220.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_features2d220.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_ffmpeg220.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_flann220.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_gpu220.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_highgui220.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_imgproc220.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_legacy220.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_ml220.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_objdetect220.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_video220.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\ZedGraph.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\MultiWii.exe
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\MultiWii.pdb
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\SlimDX.dll
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\obj\x86\Debug\MultiWii.csprojResolveAssemblyReference.cache
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\obj\x86\Debug\MultiWii.Form1.resources
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\obj\x86\Debug\MultiWii.Properties.Resources.resources
+D:\Documentos\sentinelDrone\Desarrollo\Proyecto Final\MAPI\MultiWii\obj\x86\Debug\MultiWii.csproj.GenerateResource.Cache
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\obj\x86\Debug\MultiWii.exe
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\obj\x86\Debug\MultiWii.pdb
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\cvextern.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_calib3d220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_contrib220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_core220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_features2d220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_ffmpeg220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_flann220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_gpu220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_highgui220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_imgproc220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_legacy220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_ml220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_objdetect220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\opencv_video220.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\ZedGraph.dll
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\MultiWii.exe
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\bin\Debug\MultiWii.pdb
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\obj\x86\Debug\MultiWii.csprojResolveAssemblyReference.cache
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\obj\x86\Debug\MultiWii.Form1.resources
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\obj\x86\Debug\MultiWii.Properties.Resources.resources
+C:\Users\PC 03\Documents\drone\Desarrollo\Proyecto Final\MAPI\MultiWii\obj\x86\Debug\MultiWii.csproj.GenerateResource.Cache
+D:\Documentos\MAPI\MultiWii\obj\x86\Debug\MultiWii.exe
+D:\Documentos\MAPI\MultiWii\obj\x86\Debug\MultiWii.pdb
+D:\Documentos\MAPI\MultiWii\bin\Debug\cvextern.dll
+D:\Documentos\MAPI\MultiWii\bin\Debug\opencv_calib3d220.dll
+D:\Documentos\MAPI\MultiWii\bin\Debug\opencv_contrib220.dll
+D:\Documentos\MAPI\MultiWii\bin\Debug\opencv_core220.dll
+D:\Documentos\MAPI\MultiWii\bin\Debug\opencv_features2d220.dll
+D:\Documentos\MAPI\MultiWii\bin\Debug\opencv_ffmpeg220.dll
+D:\Documentos\MAPI\MultiWii\bin\Debug\opencv_flann220.dll
+D:\Documentos\MAPI\MultiWii\bin\Debug\opencv_gpu220.dll
+D:\Documentos\MAPI\MultiWii\bin\Debug\opencv_highgui220.dll
+D:\Documentos\MAPI\MultiWii\bin\Debug\opencv_imgproc220.dll
+D:\Documentos\MAPI\MultiWii\bin\Debug\opencv_legacy220.dll
+D:\Documentos\MAPI\MultiWii\bin\Debug\opencv_ml220.dll
+D:\Documentos\MAPI\MultiWii\bin\Debug\opencv_objdetect220.dll
+D:\Documentos\MAPI\MultiWii\bin\Debug\opencv_video220.dll
+D:\Documentos\MAPI\MultiWii\bin\Debug\ZedGraph.dll
+D:\Documentos\MAPI\MultiWii\bin\Debug\MultiWii.exe
+D:\Documentos\MAPI\MultiWii\bin\Debug\MultiWii.pdb
+D:\Documentos\MAPI\MultiWii\bin\Debug\SlimDX.dll
+D:\Documentos\MAPI\MultiWii\obj\x86\Debug\MultiWii.csprojResolveAssemblyReference.cache
+D:\Documentos\MAPI\MultiWii\obj\x86\Debug\MultiWii.Form1.resources
+D:\Documentos\MAPI\MultiWii\obj\x86\Debug\MultiWii.Properties.Resources.resources
+D:\Documentos\MAPI\MultiWii\obj\x86\Debug\MultiWii.csproj.GenerateResource.Cache
+C:\Users\pc-02\Documents\aliendrone\Desarrollo\Proyecto Final\MAPI\MultiWii\obj\x86\Debug\MultiWii.exe
+C:\Users\pc-02\Documents\aliendrone\Desarrollo\Proyecto Final\MAPI\MultiWii\obj\x86\Debug\MultiWii.pdb
